@@ -5,7 +5,6 @@ http://cfss.cc/api/ysp/cctv1.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
 #EXTINF:-1 group-title="央视",CHC动作电影
 http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
-#EXTINF:-1 group-title="湖南",湖南卫视
 #EXTINF:-1 group-title="广东",广东卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 group-title="广东",深圳卫视
